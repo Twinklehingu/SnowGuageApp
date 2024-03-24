@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662825773701",
+    "project_id": "snowgauge-802fd",
+    "storage_bucket": "snowgauge-802fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662825773701:android:470a4a81ed527da90817ec",
+        "android_client_info": {
+          "package_name": "com.seattleu.SnowGauge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7OSvYgk3jKaAES2UwOeqq76HYcIZjVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
